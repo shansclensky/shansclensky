@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shansclensky
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning ML and AI
-- 💞️ I’m looking to collaborate on NLP, RPA and automation
+- 💞️ I’m looking to collaborate on NLP, RPA and Robot framework automation
 - 📫 How to reach me email at shansclensky66@gmail.com
 
 <!---
